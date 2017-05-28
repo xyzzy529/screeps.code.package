@@ -1,0 +1,10 @@
+{
+  "screeps.code.extension": {
+    "reset": "origin/dev",
+    "merge": []
+  },
+  "screeps.code": {
+    "reset": "origin/dev",
+    "merge": []
+  }
+}

@@ -1,0 +1,6 @@
+[submodule "screeps.code"]
+	path = screeps.code
+	url = https://github.com/ScreepsOCS/screeps.code.git
+[submodule "screeps.code.extension"]
+	path = screeps.code.extension
+	url = https://github.com/ScreepsOCS/screeps.code.extension.git
