@@ -1,38 +1,5 @@
 ## Getting started with the repository  
 
-### Prerequisites 
-
-* On Unix/Linux Distrubutions  
-  You must have SSH keys linked to your GitHub account before following these instrucitons.  See https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account for details on setting this up.  
-  
-* On Windows  
-  If you are not familiar in using a CLI (command line interface), it is recommened that you use Github Desktop https://desktop.github.com/, it is quite simple.  
-  If you don't want to use Github Desktop, you must have SSH keys linked to your GitHub account before following these instructions (at least for *Installation: 3. Clone repository and submodules*).  
-  
-  To use **powershell**, you may have to do the following steps: 
-  * Install OpenSSH  
-    https://github.com/PowerShell/Win32-OpenSSH/wiki/Install-Win32-OpenSSH 
-  * Install Git  
-    https://git-scm.com/download/win
-  * Install posh-git  
-    https://github.com/dahlbyk/posh-git/blob/master/README.md
-  * Extend PATH variable
-    * Press "windows key" + "pause/break"
-    * Click `Advanced system settings`
-    * Click `Environment Variables`
-    * In the `System Variables` area, locate the `Path` variable, highlight it and click `Edit`
-    * Add path variables for git and OpenSSH (depending on where you put them)
-      * C:\Program Files\Git
-      * C:\Program Files\Git\bin
-      * C:\Program Files\Git\cmd
-      * C:\Program Files\OpenSSH
-      
-    
-  * Add SSH keys to your github account  
-    https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account
-
-  Alternatively, you can use the git bash (included in git) or git shell (included in Github Desktop) or maybe your IDE or ...
-
 ### Installation
 
 1. Install Node  
